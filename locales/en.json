@@ -1,0 +1,13 @@
+{
+    "target_interact": "Open revivestation",
+    "target_icon": "fas fa-question",
+    "max_paramedics_reached": "There are already enough paramedics in this area.",
+    "no_player_nearby": "There is no player nearby.",
+    "revive_player_title": "Revivestation",
+    "revive_player_desc": "Do you want to revive **%s** for **$%s**?",
+    "player_not_online": "The player is not online.",
+    "not_enough_money": "You don't have enough money.",
+    "revive_player_success": "You have successfully revived the player.",
+    "player_not_dead": "The player is not dead.",
+    "help_message": "[E] Revive Player"
+}

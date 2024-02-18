@@ -1,0 +1,13 @@
+{
+    "target_interact": "Revivestation öffnen",
+    "target_icon": "fas fa-question",
+    "max_paramedics_reached": "Meine Kollegen sind da, was willst du?",
+    "no_player_nearby": "Es befindet sich kein Spieler in deiner Nähe.",
+    "revive_player_title": "Revivestation",
+    "revive_player_desc": "Möchtest du **%s** für **$%s** wiederbeleben?",
+    "player_not_online": "Der Spieler ist nicht mehr online.",
+    "not_enough_money": "Du hast nicht genügend Geld.",
+    "revive_player_success": "Der Spieler wurde erfolgreich wiederbelebt.",
+    "player_not_dead": "Der Spieler ist nicht tot.",
+    "help_message": "[E] Spieler wiederbeleben"
+}

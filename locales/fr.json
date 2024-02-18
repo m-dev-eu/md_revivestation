@@ -1,0 +1,13 @@
+{
+    "target_interact": "Ouvrir le menu",
+    "target_icon": "fas fa-question",
+    "max_paramedics_reached": "Il y a déjà trop de paramédics en service.",
+    "no_player_nearby": "Aucun joueur à proximité.",
+    "revive_player_title": "Revivestation",
+    "revive_player_desc": "Voulez vous réanimé **%s** pour **$%s**?",
+    "player_not_online": "Le joueur n'est pas en ligne.",
+    "not_enough_money": "Vous n'avez pas assez d'argent.",
+    "revive_player_success": "Vous avez réanimé le jouer.",
+    "player_not_dead": "Le joueur n'est pas mort.",
+    "help_message": "[E] pour ouvrir le menu de réanimation."
+}
